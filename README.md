@@ -8,3 +8,8 @@ Anyhoo, I ride a lot of public transit and most have some sort of unique sound o
 Well, for one thing. To let people know a build was going out, and to associate individual tunes with each project being built.
 
 So yeah now we're here.
+
+Requirements
+------------
+
+This thing runs on Python 3. There's a script to spin up a virtual environment.
