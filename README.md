@@ -12,4 +12,4 @@ So yeah now we're here.
 Requirements
 ------------
 
-This thing runs on Python 3. There's a script to spin up a virtual environment.
+This thing runs on Python 3. There's a script to spin up a virtual environment, `create-virtualenv.py`, and a script to install the necessary command-line utilities, `install-tools.sh`. This whole thing assumes an Ubuntu or equivalent Debianlike to work.
